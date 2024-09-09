@@ -1,0 +1,31 @@
+Rapid Ration
+
+Rapid Ration is an application that allows users to browse and order ration items conveniently. The application offers both Admin and User functionalities, enabling admins to manage suppliers and users, while users can place orders, check their cart, and view order history.
+Features
+Admin Features:
+
+    View Suppliers: List all suppliers with their IDs, names, and addresses.
+    View Users: List users with their IDs, names, and order history.
+
+User Features:
+
+    Check Cart: View items in the cart and place orders.
+    View Order History: View details of previous orders.
+    View Product Directory: Browse available products.
+    Order Items: Add products to the cart by specifying the product ID and quantity.
+
+Getting Started
+Installation:
+
+    Clone the repository.
+    Install necessary dependencies (if any).
+    Run the application.
+
+How to Use:
+
+    Admin:
+        Log in with Admin ID and Password.
+        Access admin features such as viewing suppliers and users.
+    User:
+        Log in with Username and Ration Card Number.
+        Place orders, check cart, view order history, and browse the product directory.
